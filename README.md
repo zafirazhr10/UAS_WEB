@@ -12,3 +12,5 @@ Bagian ini menjelaskan antarmuka (interface) dan fungsionalitas dari modul Tamba
 <img width="1365" height="503" alt="image" src="https://github.com/user-attachments/assets/15f00f19-daf8-451f-b552-c2b44695bcf9" />
 
 <img width="1365" height="597" alt="image" src="https://github.com/user-attachments/assets/ee4c0af5-273d-4f46-9a4d-0e8304aed2c0" />
+
+<img width="1365" height="495" alt="image" src="https://github.com/user-attachments/assets/6e85f3aa-17e1-467e-8078-c6d5ef211cf6" />
